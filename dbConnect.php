@@ -1,6 +1,6 @@
 <?php
 $dbHost = "mysql.cs.uky.edu";
-$dbUserAndName = "meth225";
+$dbUserAndName = "********";
 $dbPass = "u0780919";
 
 $_TABLE_NAME = "Items";
