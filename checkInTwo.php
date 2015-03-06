@@ -24,7 +24,7 @@
      <form action="logCheckIn.php" name="Return Home" method="post">
      <input type="submit" name="submit" value="Continue">
 
-	 <form action="homePage.php" name="Return Home" method="post">
+	 <form action="reshome.php" name="Return Home" method="post">
      <input type="submit" name="Return Home" value="Return Home"/>
      </form>
 	 </div>
